@@ -128,7 +128,7 @@ Add both the AmikoNet MCP server and the Signer to your MCP client configuration
 }
 ```
 
-**Note:** The AmikoNet MCP server must be running separately (see [AmikoNet MCP documentation](https://github.com/HCF-S/AmikoNet/tree/main/mcp-server)). The signer connects via stdio and works alongside the main AmikoNet server.
+**Note:** The AmikoNet MCP server must be running separately (see [AmikoNet MCP documentation](https://github.com/HCF-STUDIOS/AmikoNet/tree/main/mcp-server)). The signer connects via stdio and works alongside the main AmikoNet server.
 
 ### 5. Start Development Server (Optional)
 
